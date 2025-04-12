@@ -26,13 +26,11 @@
     } ,
     {
         "id":4 ,
-        "name" : "NikeAy39" ,
+        "name" : "NikeAy35" ,
         "price" : 27000 ,
         "description": "Hello",
         "qty" : 49 ,
         "image" : "image/img4.jpg"
-    } , 
+    }
 
-
- 
 ]
