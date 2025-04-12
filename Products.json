@@ -1,0 +1,38 @@
+[
+    {
+        "id":1 ,
+        "name" : "NikeAQ34" ,
+        "price" : 15000 ,
+        "description" : "Hello",
+        "qty" : 45 ,
+        "image" : "image/img.jpg"
+    } ,
+
+    {
+        "id":2 ,
+        "name" : "NikeAQ35" ,
+        "price" :  26000 ,
+        "description": "Hello",
+        "qty" : 46 ,
+        "image" : "image/img2.jpg"
+    } ,
+    {
+        "id":3 ,
+        "name" : "Nikeykl38" ,
+        "price" :  26000 ,
+        "description": "Hello",
+        "qty" : 47 ,
+        "image" : "image/3.jpg"
+    } ,
+    {
+        "id":4 ,
+        "name" : "NikeAy39" ,
+        "price" : 27000 ,
+        "description": "Hello",
+        "qty" : 49 ,
+        "image" : "image/img4.jpg"
+    } , 
+
+
+ 
+]
